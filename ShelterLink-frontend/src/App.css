@@ -1,0 +1,300 @@
+/* Reset some default styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 16px; /* Set a base font size for rem units */
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+/* App container */
+.app {
+  display: grid;
+  grid-template-rows: auto 1fr; /* Header size is auto, the rest is for content */
+  height: 100vh;
+}
+
+/* Header styles */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1em;
+  background-color: #f8f9fa; /* Light grey background, you can change it */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: adds shadow for depth */
+  background-color: #e9f3f5; /* Adjust to match the design */
+  padding: 0.5rem 1rem; /* Adjust padding as needed */
+}
+
+.header-text {
+  color: #333; /* Adjust text color as needed */
+}
+
+
+.logo-section {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 50px; /* Logo height, you can change it */
+  margin-right: 1em;
+}
+
+.header-text {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.login-section {
+  display: flex;
+  align-items: center;
+}
+
+.login-button {
+  padding: 0.5em 1em;
+  margin-right: 1em;
+  cursor: pointer;
+  background-color: #007bff; /* Bootstrap primary color, you can change it */
+  color: white;
+  border: none;
+  border-radius: 0.25em;
+  font-size: 1em;
+  background-color: #0056b3; /* Adjust button color to match the design */
+  border-radius: 0.25rem;
+  /* Add any additional styling for hover/active states */
+}
+
+.login-button:hover {
+  background-color: #004494; /* Darken button on hover */
+}
+
+.user-icon {
+  display: block;
+  width: 32px;
+  height: 32px;
+  background-color: #6c757d; /* Bootstrap secondary color, you can change it */
+  border-radius: 50%;
+}
+
+/* Main content styles */
+.content {
+  display: grid;
+  grid-template-columns: 3fr 1fr; /* 3 parts for map, 1 part for sidebar */
+  height: 100%; /* Take up remaining space */
+}
+
+/* Map styles */
+.map-container {
+  position: relative;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.map-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the image covers the area without stretching */
+}
+
+/* Sidebar styles */
+.sidebar {
+  display: grid;
+  grid-template-rows: 1fr auto; /* 1 part for questionnaire, auto for about section */
+  overflow-y: auto; /* Adds scroll to sidebar if content overflows */
+  background-color: #f9f9f9; /* Lighter background for sidebar */
+  padding: 1 10rem; /* Adjust padding as needed */
+  border-radius: 0.25rem; /* Rounded corners for sidebar */
+  
+}
+
+.take-questionnaire {
+  padding-bottom: 2rem; /* Add padding inside the container for spacing around the button */
+  display: flex; /* Use flexbox for centering the button if needed */
+  justify-content: center; /* Center button horizontally */
+  align-items: center; /* Center button vertically */
+  margin-top: 1.5rem; 
+  
+}
+
+.match-question {
+  font-size: 1.25rem; /* Larger font size for headers */
+  font-weight: bold; /* Make it bold */
+  color: #333; /* Dark grey color for text, adjust as needed */
+  margin-bottom: 0rem; /* Add some space below the header */
+  padding-top: 0.5rem; /* If needed, add some space above the header */
+}
+
+
+.match-section {
+  padding-bottom: 20px; /* Adds space between sections */
+}
+
+
+
+.questionnaire-button {
+  padding: 0.5em 1em;
+  background-color: #28a745; /* Bootstrap success color, you can change it */
+  color: white;
+  border: none;
+  border-radius: 0.25em;
+  cursor: pointer;
+  font-size: 1em;
+  
+}
+
+.about-section {
+  padding: 10px;
+  background-color: white; /* White background for about section, you can change it */
+  border-radius: 0.5em;
+}
+
+
+
+/* Content layout adjustments */
+.content {
+  gap: 1rem; /* Add space between map and sidebar */
+}
+/* Match section and button styling */
+.match-section {
+  background-color: #ffffff; /* Background for the match section */
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.25rem; /* Rounded corners for match section */
+}
+
+.questionnaire-button {
+  width: 100%; /* Full width button */
+  text-align: center;
+  background-color: #4CAF50; /* Adjust to your primary color */
+  color: white;
+  padding: 0.75rem 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 0.25rem;
+  margin-top: auto; /* Space above the button */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Optional: adds shadow for depth */
+  transition: background-color 0.3s; /* Smooth transition for button background */
+}
+
+.questionnaire-button:hover {
+  background-color: #46a049; /* Darken button on hover */
+}
+
+/* About section adjustments */
+.about-section {
+  /* Adjust background, padding, margins as needed */
+  background-color: #ffffff; /* Optional: different background color */
+  padding: 1rem;
+  border-radius: 0.25rem; /* Rounded corners for about section */
+}
+
+/* Make sure your button and input fields have consistent height and font size */
+input[type="text"],
+button {
+  height: 2.5rem;
+  font-size: 1rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .logo {
+    margin-bottom: 0.5rem; /* Space between logo and title on mobile */
+  }
+
+  .login-section {
+    align-self: flex-end; /* Align login to the end on mobile */
+    margin-top: 0.5rem; /* Space above login button on mobile */
+  }
+}
+.custom-radio-button {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 18px;
+  user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.option-input {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  height: 20px;
+  width: 20px;
+  border: 2px solid #d1d3d4;
+  border-radius: 50%;
+  outline: none;
+  margin-right: 10px;
+  vertical-align: middle;
+  position: relative;
+  top: -2px;
+}
+
+.option-input:checked {
+  border: 6px solid #007bff;
+}
+
+
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.custom-radio-button:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, change the checkmark's color */
+.custom-radio-button input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the indicator (the dot/circle) when checked */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.custom-radio-button input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.custom-radio-button .checkmark:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+
+

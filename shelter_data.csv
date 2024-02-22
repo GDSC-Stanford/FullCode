@@ -1,0 +1,501 @@
+Person,person_number,los,age,gender,relationship,location,language,disability
+Covenant House California #1,1,8,20,3,1,4,1,2
+St. Vincent de Paul Emergency Shelter #1,2,1,30,1,1,1,2,4
+Covenant House California #1,3,8,21,1,1,9,1,4
+Bay Area Rescue Mission #1,4,5,40,2,1,14,2,4
+211 Bay Area County #1,5,3,35,1,3,45,4,4
+Bay Area Community Services #1,6,3,28,2,1,11,1,2
+Compass Family Services #1,7,4,32,1,3,6,2,2
+Oakland Elizabeth House #1,8,4,28,1,1,2,1,4
+Community Seva #1,9,1,45,2,1,19,2,4
+Compass Connecting Point #1,10,2,30,1,3,0.5,1,4
+Mission Neighborhood Resource #1,11,1,35,2,3,5,1,4
+Samaritan House - Safe Harbor Shelter #1,12,3,28,1,1,8,1,4
+St Joseph's Family Center #1,13,2,42,2,3,3,2,4
+CityTeam San Francisco #1,14,6,38,1,3,1,1,4
+Episcopal Community Services #1,15,6,45,2,1,2,1,4
+La Casa de Las Madres #1,16,2,30,1,3,1,1,4
+Covenant House California #2,1,3,19,3,1,3,1,2
+St. Vincent de Paul Emergency Shelter #2,2,1,35,1,1,2,2,4
+Covenant House California #2,3,8,22,1,1,10,1,4
+Bay Area Rescue Mission #2,4,5,45,2,1,15,2,4
+211 Bay Area County #2,5,3,30,1,3,16,4,4
+Bay Area Community Services #2,6,3,28,2,1,11,1,2
+Compass Family Services #2,7,3,33,1,3,5,2,4
+Oakland Elizabeth House #2,8,5,29,1,1,3,1,4
+Community Seva #2,9,1,40,2,1,20,2,4
+Compass Connecting Point #2,10,2,31,1,3,1,1,4
+Mission Neighborhood Resource #2,11,1,40,3,3,4,2,3
+Samaritan House - Safe Harbor Shelter #2,12,3,25,2,1,10,1,3
+St Joseph's Family Center #2,13,1,50,1,3,2,3,4
+CityTeam San Francisco #2,14,7,32,2,3,3,1,2
+Episcopal Community Services #2,15,4,35,1,1,5,2,4
+La Casa de Las Madres #2,16,3,28,1,3,2,1,4
+Covenant House California #3,1,8,19,3,1,3,1,4
+St. Vincent de Paul Emergency Shelter #3,2,1,35,1,1,2,2,4
+Covenant House California #3,3,8,22,1,1,10,1,4
+Bay Area Rescue Mission #3,4,5,45,2,1,15,2,2
+211 Bay Area County #3,5,3,30,1,3,9,4,4
+Bay Area Community Services #3,6,3,28,2,1,11,1,4
+Compass Family Services #3,7,7,33,1,3,5,2,4
+Oakland Elizabeth House #3,8,7,29,1,1,3,1,4
+Community Seva #3,9,1,40,2,1,20,2,2
+Compass Connecting Point #3,10,2,31,1,3,1,1,4
+Mission Neighborhood Resource #3,11,1,30,2,3,6,1,4
+Samaritan House - Safe Harbor Shelter #3,12,3,27,1,2,9,2,3
+St Joseph's Family Center #3,13,2,48,2,3,4,3,4
+CityTeam San Francisco #3,14,6,36,1,3,2,1,4
+Episcopal Community Services #3,15,5,32,2,1,4,2,3
+La Casa de Las Madres #3,16,2,25,1,3,1,1,4
+Covenant House California #4,1,9,18,3,1,4,1,4
+St. Vincent de Paul Emergency Shelter #4,2,1,38,2,1,1,2,4
+Covenant House California #4,3,7,23,2,1,8,1,4
+Bay Area Rescue Mission #4,4,6,42,3,3,16,2,2
+211 Bay Area County #4,5,2,28,1,2,9,3,4
+Bay Area Community Services #4,6,4,30,2,1,12,1,4
+Compass Family Services #4,7,8,35,1,2,7,2,4
+Oakland Elizabeth House #4,8,6,27,2,1,4,1,4
+Community Seva #4,9,2,50,3,1,18,2,2
+Compass Connecting Point #4,10,3,32,1,2,1.5,1,4
+Mission Neighborhood Resource #4,11,1,38,3,2,3,2,3
+Samaritan House - Safe Harbor Shelter #4,12,3,30,2,1,11,1,3
+St Joseph's Family Center #4,13,1,45,1,3,1,3,4
+CityTeam San Francisco #4,14,7,34,2,3,4,1,2
+Episcopal Community Services #4,15,4,38,1,2,6,2,4
+La Casa de Las Madres #4,16,3,26,1,3,3,1,4
+Covenant House California #5,1,6,18,2,1,5,1,4
+St. Vincent de Paul Emergency Shelter #5,2,2,40,2,2,3,2,4
+Covenant House California #5,3,6,23,1,1,11,1,4
+Bay Area Rescue Mission #5,4,4,38,3,3,6,4,2
+211 Bay Area County #5,5,5,28,2,3,18,3,4
+Bay Area Community Services #5,6,4,25,1,1,10,1,4
+Compass Family Services #5,7,9,35,2,2,7,3,4
+Oakland Elizabeth House #5,8,9,30,1,1,4,1,4
+Community Seva #5,9,2,50,3,3,25,3,2
+Compass Connecting Point #5,10,3,29,2,3,2,1,4
+Mission Neighborhood Resource #5,11,1,33,3,2,5,1,3
+Samaritan House - Safe Harbor Shelter #5,12,2,28,2,3,9,2,4
+St Joseph's Family Center #5,13,1,50,1,3,2,3,4
+CityTeam San Francisco #5,14,7,35,2,3,3,1,2
+Episcopal Community Services #5,15,5,32,1,2,5,2,4
+La Casa de Las Madres #5,16,3,27,1,3,2,1,4
+Covenant House California #6,1,8,20,3,1,4,1,4
+St. Vincent de Paul Emergency Shelter #6,2,1,30,1,1,1,2,4
+Covenant House California #6,3,8,21,1,1,9,1,4
+Bay Area Rescue Mission #6,4,5,40,2,1,14,2,2
+211 Bay Area County #6,5,3,35,1,3,9,4,4
+Bay Area Community Services #6,6,3,28,2,1,11,1,4
+Compass Family Services #6,7,7,32,1,3,6,2,4
+Oakland Elizabeth House #6,8,7,28,1,1,2,1,4
+Community Seva #6,9,1,45,2,1,19,2,2
+Compass Connecting Point #6,10,2,30,1,3,0.5,1,4
+Mission Neighborhood Resource #6,11,1,18,2,1,5,1,3
+Samaritan House - Safe Harbor Shelter #6,12,4,23,1,2,9,2,3
+St Joseph's Family Center #6,13,2,50,2,3,4,3,4
+CityTeam San Francisco #6,14,6,12,1,2,2,1,4
+Episcopal Community Services #6,15,5,30,2,1,4,2,3
+La Casa de Las Madres #6,16,2,27,1,3,1,1,4
+Covenant House California #7,1,8,20,3,1,4,1,4
+St. Vincent de Paul Emergency Shelter #7,2,1,30,1,1,1,2,4
+Covenant House California #7,3,8,21,1,1,9,1,4
+Bay Area Rescue Mission #7,4,5,40,2,1,14,2,2
+211 Bay Area County #7,5,3,35,1,3,8,4,4
+Bay Area Community Services #7,6,3,28,2,1,11,1,4
+Compass Family Services #7,7,7,32,1,3,6,2,4
+Oakland Elizabeth House #7,8,7,28,1,1,2,1,4
+Community Seva #7,9,1,45,2,1,19,2,2
+Compass Connecting Point #7,10,2,30,1,3,0.5,1,4
+Mission Neighborhood Resource #7,11,1,32,2,3,5,1,4
+Samaritan House - Safe Harbor Shelter #7,12,4,28,1,1,9,2,3
+St Joseph's Family Center #7,13,2,42,2,3,4,3,4
+CityTeam San Francisco #7,14,6,36,1,2,2,1,4
+Episcopal Community Services #7,15,5,33,2,1,4,2,3
+La Casa de Las Madres #7,16,2,30,1,3,1,1,4
+Covenant House California #8,1,8,18,3,1,4,1,4
+St. Vincent de Paul Emergency Shelter #8,2,1,30,1,1,1,2,4
+Covenant House California #8,3,8,21,1,1,9,1,4
+Bay Area Rescue Mission #8,4,5,40,2,1,14,2,2
+211 Bay Area County #8,5,3,35,1,3,6,4,4
+Bay Area Community Services #8,6,3,28,2,1,11,1,4
+Compass Family Services #8,7,7,32,1,3,6,2,4
+Oakland Elizabeth House #8,8,7,28,1,1,2,1,4
+Community Seva #8,9,3,45,2,1,19,2,2
+Compass Connecting Point #8,10,2,30,1,3,0.5,1,4
+Mission Neighborhood Resource #8,11,1,32,2,3,5,1,3
+Samaritan House - Safe Harbor Shelter #8,12,4,29,1,2,10,2,4
+St Joseph's Family Center #8,13,2,44,2,3,2,3,4
+CityTeam San Francisco #8,14,6,30,1,2,3,1,2
+Episcopal Community Services #8,15,5,36,2,1,4,2,4
+La Casa de Las Madres #8,16,2,28,1,3,1,1,4
+Covenant House California #9,1,9,18,3,1,4,1,4
+St. Vincent de Paul Emergency Shelter #9,2,1,40,2,1,1,2,4
+Covenant House California #9,3,9,21,1,1,9,1,4
+Bay Area Rescue Mission #9,4,3,35,1,3,6,4,2
+211 Bay Area County #9,5,9,25,1,1,10,1,4
+Bay Area Community Services #9,6,2,35,1,1,8,1,4
+Compass Family Services #9,7,1,30,1,3,3,2,4
+Oakland Elizabeth House #9,8,2,27,1,1,5,1,4
+Community Seva #9,9,4,50,2,1,15,2,2
+Compass Connecting Point #9,10,9,28,2,3,0.5,1,4
+Mission Neighborhood Resource #9,11,1,32,3,3,5,1,4
+Samaritan House - Safe Harbor Shelter #9,12,2,28,2,2,9,2,3
+St Joseph's Family Center #9,13,2,42,1,3,4,3,4
+CityTeam San Francisco #9,14,8,30,2,3,3,1,2
+Episcopal Community Services #9,15,5,35,1,2,6,2,4
+La Casa de Las Madres #9,16,3,27,1,3,2,1,4
+Covenant House California #10,1,8,20,3,1,4,1,4
+St. Vincent de Paul Emergency Shelter #10,2,1,30,1,1,1,2,4
+Covenant House California #10,3,8,21,1,1,9,1,4
+Bay Area Rescue Mission #10,4,5,40,2,1,14,2,
+211 Bay Area County #10,5,3,35,1,3,,4,
+Bay Area Community Services #10,6,3,28,2,1,11,1,
+Compass Family Services #10,7,7,32,1,3,6,2,
+Oakland Elizabeth House #10,8,7,28,1,1,2,1,
+Community Seva #10,9,4,45,2,1,19,2,
+Compass Connecting Point #10,10,2,30,1,3,0.5,1,
+Mission Neighborhood Resource #10,11,1,33,2,3,5,1,4
+Samaritan House - Safe Harbor Shelter #10,12,4,28,1,1,8,2,3
+St Joseph's Family Center #10,13,2,47,2,3,3,3,4
+CityTeam San Francisco #10,14,6,35,1,2,2,1,4
+Episcopal Community Services #10,15,5,34,2,1,4,2,3
+La Casa de Las Madres #10,16,2,27,1,3,2,1,4
+The Homeless Church #1,17,6,45,2,1,2,1,4
+The Homeless Church #2,17,5,55,2,1,4,1,4
+The Homeless Church #3,17,7,60,2,2,3,1,4
+The Homeless Church #4,17,3,35,2,3,1,1,4
+The Homeless Church #5,17,4,50,2,1,5,1,1
+The Homeless Church #6,17,8,70,2,1,7,1,3
+The Homeless Church #7,17,2,25,2,1,2,1,2
+The Homeless Church #8,17,9,55,2,1,8,1,4
+The Homeless Church #9,17,4,40,2,2,3,1,4
+The Homeless Church #10,17,6,30,2,1,0.5,1,4
+Lark-Inn Youth Shelter #1,18,3,20,1,1,0.5,4,4
+Lark-Inn Youth Shelter #2,18,2,19,2,1,1,1,4
+Lark-Inn Youth Shelter #3,18,4,22,3,1,2,2,4
+Lark-Inn Youth Shelter #4,18,5,21,2,1,0.3,1,4
+Lark-Inn Youth Shelter #5,18,2,18,1,1,0.8,4,4
+Lark-Inn Youth Shelter #6,18,6,20,2,1,1.5,3,4
+Lark-Inn Youth Shelter #7,18,3,19,3,1,0.7,1,4
+Lark-Inn Youth Shelter #8,18,4,23,1,1,2.5,2,4
+Lark-Inn Youth Shelter #9,18,2,18,2,1,0.4,1,4
+Lark-Inn Youth Shelter #10,18,5,20,3,1,1.8,1,4
+Next Door Adult Shelter #1,19,7,40,1,1,0.5,4,4
+Next Door Adult Shelter #2,19,5,55,2,1,1,1,4
+Next Door Adult Shelter #3,19,6,30,3,1,2,1,4
+Next Door Adult Shelter #4,19,8,45,2,2,3,1,4
+Next Door Adult Shelter #5,19,4,50,1,1,0.3,1,4
+Next Door Adult Shelter #6,19,3,28,2,1,1.5,1,4
+Next Door Adult Shelter #7,19,9,60,1,1,2.5,1,4
+Next Door Adult Shelter #8,19,6,35,2,3,4,1,4
+Next Door Adult Shelter #9,19,7,42,3,1,1.8,1,4
+Next Door Adult Shelter #10,19,5,48,1,1,0.8,1,4
+Shepherds Gate Livermore #1,20,9,38,1,2,1,1,1
+Shepherds Gate Livermore #2,20,7,32,1,1,2,1,2
+Shepherds Gate Livermore #3,20,8,42,1,3,3,1,1
+Shepherds Gate Livermore #4,20,6,27,1,1,5,1,4
+Shepherds Gate Livermore #5,20,5,30,1,1,8,1,1
+Shepherds Gate Livermore #6,20,4,35,1,3,10,1,4
+Shepherds Gate Livermore #7,20,10,45,1,2,0.5,1,3
+Shepherds Gate Livermore #8,20,3,25,1,1,12,1,4
+Shepherds Gate Livermore #9,20,7,39,1,3,3,1,1
+Shepherds Gate Livermore #10,20,9,10,3,1,1,1,4
+Berkeley - Albany Ymca #1,21,5,30,2,1,1,1,4
+Berkeley - Albany Ymca #2,21,3,25,1,2,2,2,4
+Berkeley - Albany Ymca #3,21,6,40,3,1,0.5,1,4
+Berkeley - Albany Ymca #4,21,4,35,1,3,3,1,4
+Berkeley - Albany Ymca #5,21,2,22,2,1,1.5,1,4
+Berkeley - Albany Ymca #6,21,7,45,1,1,0.8,1,3
+Berkeley - Albany Ymca #7,21,3,28,2,1,2,1,4
+Berkeley - Albany Ymca #8,21,5,37,1,2,0.3,1,4
+Berkeley - Albany Ymca #9,21,4,33,3,1,1,1,4
+Berkeley - Albany Ymca #10,21,6,42,1,3,2.5,1,4
+Jobs For Homeless Consortium #1,22,5,40,2,1,2,1,4
+Jobs For Homeless Consortium #2,22,7,35,1,2,1.5,1,4
+Jobs For Homeless Consortium #3,22,6,28,3,1,3,1,4
+Jobs For Homeless Consortium #4,22,4,45,1,3,0.5,1,4
+Jobs For Homeless Consortium #5,22,3,22,2,1,4,1,1
+Jobs For Homeless Consortium #6,22,8,38,1,1,1,2,2
+Jobs For Homeless Consortium #7,22,2,55,2,2,5,1,3
+Jobs For Homeless Consortium #8,22,9,30,3,1,0.8,1,4
+Jobs For Homeless Consortium #9,22,5,48,1,1,3.5,1,4
+Jobs For Homeless Consortium #10,22,7,25,2,1,2.2,1,4
+Jubilee Restoration Ministries #1,23,6,42,1,2,1,1,4
+Jubilee Restoration Ministries #2,23,5,38,2,3,0.5,1,4
+Jubilee Restoration Ministries #3,23,7,30,1,3,2,1,4
+Jubilee Restoration Ministries #4,23,4,28,1,1,1.5,1,4
+Jubilee Restoration Ministries #5,23,8,50,2,1,3,1,4
+Jubilee Restoration Ministries #6,23,3,35,1,2,0.8,1,4
+Jubilee Restoration Ministries #7,23,5,45,1,1,2.5,1,4
+Jubilee Restoration Ministries #8,23,6,32,2,1,1.2,1,4
+Jubilee Restoration Ministries #9,23,7,40,2,2,3.5,1,4
+Jubilee Restoration Ministries #10,23,4,33,2,3,1.8,1,4
+First Place For Youth #1,24,7,20,3,1,2,1,4
+First Place For Youth #2,24,8,22,1,1,1.5,1,1
+First Place For Youth #3,24,6,19,2,1,1,1,2
+First Place For Youth #4,24,9,18,1,1,0.5,1,3
+First Place For Youth #5,24,8,17,3,1,2,1,4
+First Place For Youth #6,24,7,20,2,1,3,1,2
+First Place For Youth #7,24,6,23,1,1,2.5,1,4
+First Place For Youth #8,24,8,16,1,1,0.8,1,4
+First Place For Youth #9,24,7,19,3,1,3,1,1
+First Place For Youth #10,24,7,21,2,1,,1,4
+Clausen House #1,25,10,35,2,1,1,1,2
+Clausen House #2,25,8,40,1,2,2,1,2
+Clausen House #3,25,9,30,3,1,0.5,1,2
+Clausen House #4,25,7,45,1,1,3,1,2
+Clausen House #5,25,6,55,2,1,2.5,1,2
+Clausen House #6,25,8,38,1,1,2.5,1,2
+Clausen House #7,25,6,28,3,1,4,1,1
+Clausen House #8,25,6,50,2,3,3.5,1,2
+Clausen House #9,25,7,36,1,1,2,1,4
+Clausen House #10,25,8,22,2,2,1.2,1,2
+Society St Vincent De Paul Alameda #1,26,4,28,2,1,3,1,4
+Society St Vincent De Paul Alameda #2,26,6,45,1,2,2,1,4
+Society St Vincent De Paul Alameda #3,26,3,55,3,3,1.5,1,4
+Society St Vincent De Paul Alameda #4,26,8,40,1,1,4,1,4
+Society St Vincent De Paul Alameda #5,26,5,32,2,2,0.5,1,4
+Society St Vincent De Paul Alameda #6,26,7,50,1,1,2.5,1,4
+Society St Vincent De Paul Alameda #7,26,4,23,3,1,1,1,4
+Society St Vincent De Paul Alameda #8,26,6,35,2,3,3.5,1,4
+Society St Vincent De Paul Alameda #9,26,3,60,1,1,1.8,1,4
+Society St Vincent De Paul Alameda #10,26,5,25,3,2,2.8,1,4
+Providence Baptist Church Shelter #1,27,5,42,2,1,2,1,4
+Providence Baptist Church Shelter #2,27,7,35,1,2,1.5,1,4
+Providence Baptist Church Shelter #3,27,4,55,2,1,3,1,4
+Providence Baptist Church Shelter #4,27,6,28,1,1,0.5,1,4
+Providence Baptist Church Shelter #5,27,8,40,2,3,4,1,4
+Providence Baptist Church Shelter #6,27,3,30,1,3,1,1,4
+Providence Baptist Church Shelter #7,27,5,45,2,1,2.5,1,4
+Providence Baptist Church Shelter #8,27,7,33,1,1,1.8,1,4
+Providence Baptist Church Shelter #9,27,4,48,2,2,3.5,1,4
+Providence Baptist Church Shelter #10,27,6,25,1,1,2.8,1,4
+HOME & HOPE Homeless Family Assistance #1,28,7,38,1,3,1,1,4
+HOME & HOPE Homeless Family Assistance #2,28,5,30,2,3,2,1,4
+HOME & HOPE Homeless Family Assistance #3,28,6,45,1,3,0.5,1,4
+HOME & HOPE Homeless Family Assistance #4,28,8,40,2,3,3,2,4
+HOME & HOPE Homeless Family Assistance #5,28,4,28,1,2,1.5,1,4
+HOME & HOPE Homeless Family Assistance #6,28,6,35,2,2,2.5,1,4
+HOME & HOPE Homeless Family Assistance #7,28,5,32,1,3,2,2,4
+HOME & HOPE Homeless Family Assistance #8,28,7,42,2,3,1.8,1,4
+HOME & HOPE Homeless Family Assistance #9,28,8,48,1,3,3.5,1,4
+HOME & HOPE Homeless Family Assistance #10,28,6,25,2,3,2.8,1,4
+Queen of Peace MC #1,29,6,32,1,3,1,1,4
+Queen of Peace MC #2,29,5,28,1,1,2,1,4
+Queen of Peace MC #3,29,7,35,1,1,0.5,2,4
+Queen of Peace MC #4,29,4,40,1,3,3,1,4
+Queen of Peace MC #5,29,8,45,1,1,1.5,3,4
+Queen of Peace MC #6,29,6,37,1,3,2.5,1,4
+Queen of Peace MC #7,29,5,30,1,1,2.2,1,4
+Queen of Peace MC #8,29,7,42,1,3,1.8,1,4
+Queen of Peace MC #9,29,4,26,1,1,3.5,1,4
+Queen of Peace MC #10,29,6,33,1,1,1.2,1,4
+Asian Women's Shelter #1,30,8,35,1,1,1.5,3,4
+Asian Women's Shelter #2,30,7,28,1,1,2,1,4
+Asian Women's Shelter #3,30,9,40,1,3,0.8,3,4
+Asian Women's Shelter #4,30,6,45,1,1,3,2,4
+Asian Women's Shelter #5,30,8,32,1,2,1,1,4
+Asian Women's Shelter #6,30,7,38,1,1,2.2,4,4
+Asian Women's Shelter #7,30,5,26,1,1,2.8,1,4
+Asian Women's Shelter #8,30,6,30,1,3,1.8,1,4
+Asian Women's Shelter #9,30,7,42,1,1,3.5,1,4
+Asian Women's Shelter #10,30,5,33,1,1,1.2,3,4
+Life Moves San Mateo #1,31,6,40,2,3,1.5,1,4
+Life Moves San Mateo #2,31,4,35,1,3,2,1,4
+Life Moves San Mateo #3,31,3,42,1,1,1,1,4
+Life Moves San Mateo #4,31,5,28,1,3,3,1,4
+Life Moves San Mateo #5,31,2,30,2,2,0.8,1,4
+Life Moves San Mateo #6,31,4,45,1,3,2.5,1,4
+Life Moves San Mateo #7,31,4,38,2,3,1.2,1,4
+Life Moves San Mateo #8,31,5,33,1,3,2.8,1,4
+Life Moves San Mateo #9,31,2,36,1,2,1.8,1,4
+Life Moves San Mateo #10,31,6,31,1,3,3.5,1,4
+Safe Harbor Shelter (Samaritan House) #1,32,3,45,2,1,2,1,4
+Safe Harbor Shelter (Samaritan House) #2,32,4,28,1,1,1.5,2,4
+Safe Harbor Shelter (Samaritan House) #3,32,2,60,2,1,3,1,4
+Safe Harbor Shelter (Samaritan House) #4,32,5,35,1,2,0.5,1,4
+Safe Harbor Shelter (Samaritan House) #5,32,3,50,2,2,2.5,1,4
+Safe Harbor Shelter (Samaritan House) #6,32,4,32,1,3,1,2,4
+Safe Harbor Shelter (Samaritan House) #7,32,2,55,2,1,4,1,4
+Safe Harbor Shelter (Samaritan House) #8,32,5,40,1,1,1.8,2,4
+Safe Harbor Shelter (Samaritan House) #9,32,3,48,2,2,3.5,2,4
+Safe Harbor Shelter (Samaritan House) #10,32,4,30,1,1,2.8,1,4
+Pacific Emergency Shelter (Samaritan House) #1,33,3,42,1,3,1.5,2,4
+Pacific Emergency Shelter (Samaritan House) #2,33,4,35,2,1,2,1,4
+Pacific Emergency Shelter (Samaritan House) #3,33,2,28,1,3,1,2,4
+Pacific Emergency Shelter (Samaritan House) #4,33,5,45,2,3,0.8,1,4
+Pacific Emergency Shelter (Samaritan House) #5,33,3,30,1,1,2.5,2,4
+Pacific Emergency Shelter (Samaritan House) #6,33,4,38,2,2,1.2,1,4
+Pacific Emergency Shelter (Samaritan House) #7,33,2,55,1,1,3,2,4
+Pacific Emergency Shelter (Samaritan House) #8,33,5,40,2,1,1.8,1,4
+Pacific Emergency Shelter (Samaritan House) #9,33,3,48,1,3,3.5,2,4
+Pacific Emergency Shelter (Samaritan House) #10,33,4,33,2,3,2.8,1,4
+El Camino House Person #1,35,4,28,3,1,8,2,2
+El Camino House Person #2,35,6,40,1,3,5,1,1
+El Camino House Person #3,35,8,45,2,1,10,2,3
+El Camino House Person #4,35,3,32,2,1,7,1,4
+El Camino House Person #5,35,5,36,1,3,2,3,2
+El Camino House Person #6,35,7,50,2,1,9,1,4
+El Camino House Person #7,35,6,28,2,1,6,2,4
+El Camino House Person #8,35,4,35,3,2,8,1,1
+El Camino House Person #9,35,2,30,1,1,3,2,1
+El Camino House Person #10,35,5,45,3,1,7,3,2
+Episcopal Community Services Of San Francisco Person # 1,15,2,32,2,1,3,2,2
+Episcopal Community Services Of San Francisco Person # 2,15,8,38,3,3,6,1,1
+Episcopal Community Services Of San Francisco Person # 3,15,7,40,1,2,5,3,3
+Episcopal Community Services Of San Francisco Person # 4,15,4,28,2,1,7,2,2
+Episcopal Community Services Of San Francisco Person # 5,15,5,36,3,3,2,1,4
+Episcopal Community Services Of San Francisco Person # 6,15,7,50,2,1,9,2,4
+Episcopal Community Services Of San Francisco Person # 7,15,6,28,2,1,6,1,4
+Episcopal Community Services Of San Francisco Person # 8,15,4,35,3,2,8,2,1
+Episcopal Community Services Of San Francisco Person # 9,15,2,30,1,1,3,3,1
+Episcopal Community Services Of San Francisco Person # 10,15,7,45,3,1,7,4,2
+Raphael House of San Francisco Inc,36,8,32,2,3,6,2,4
+Raphael House of San Francisco Inc,36,5,38,3,3,5,1,1
+Raphael House of San Francisco Inc,36,7,40,2,3,8,3,3
+Raphael House of San Francisco Inc,36,3,28,3,3,4,1,2
+Raphael House of San Francisco Inc,36,5,36,1,2,1,2,4
+Raphael House of San Francisco Inc,36,7,50,2,3,9,1,4
+Raphael House of San Francisco Inc,36,6,28,2,2,8,2,2
+Raphael House of San Francisco Inc,36,4,35,3,3,10,1,1
+Raphael House of San Francisco Inc,36,2,30,1,1,7,2,1
+Raphael House of San Francisco Inc,36,5,45,2,3,5,3,2
+HomeFirst Program San Jose,37,10,32,2,1,3,2,2
+HomeFirst Program San Jose,37,5,38,3,3,6,1,1
+HomeFirst Program San Jose,37,9,40,2,1,8,3,3
+HomeFirst Program San Jose,37,4,28,2,1,7,2,4
+HomeFirst Program San Jose,37,7,36,1,3,2,1,4
+HomeFirst Program San Jose,37,6,50,2,1,9,2,4
+HomeFirst Program San Jose,37,8,28,2,1,6,1,4
+HomeFirst Program San Jose,37,4,35,3,2,8,2,1
+HomeFirst Program San Jose,37,3,30,1,1,3,3,1
+HomeFirst Program San Jose,37,5,45,2,1,7,4,2
+HomeFirst Boccardo Family Living Center,38,7,35,3,3,6,1,1
+HomeFirst Boccardo Family Living Center,38,6,30,1,1,8,3,3
+HomeFirst Boccardo Family Living Center,38,9,40,2,3,10,2,4
+HomeFirst Boccardo Family Living Center,38,3,28,2,2,7,2,2
+HomeFirst Boccardo Family Living Center,38,5,36,1,2,2,1,4
+HomeFirst Boccardo Family Living Center,38,8,50,2,3,9,1,4
+HomeFirst Boccardo Family Living Center,38,6,28,2,1,6,1,4
+HomeFirst Boccardo Family Living Center,38,4,35,3,2,8,2,1
+HomeFirst Boccardo Family Living Center,38,2,30,1,1,3,3,1
+HomeFirst Boccardo Family Living Center,38,5,45,2,1,7,4,2
+Montgomery Street Inn Shelter,39,5,32,2,1,5,1,2
+Montgomery Street Inn Shelter,39,4,38,3,3,4,2,1
+Montgomery Street Inn Shelter,39,6,40,2,1,8,3,3
+Montgomery Street Inn Shelter,39,3,28,2,1,7,2,4
+Montgomery Street Inn Shelter,39,8,36,1,3,6,1,4
+Montgomery Street Inn Shelter,39,7,50,2,1,9,2,4
+Montgomery Street Inn Shelter,39,6,28,2,1,6,1,4
+Montgomery Street Inn Shelter,39,4,35,3,2,8,2,1
+Montgomery Street Inn Shelter,39,2,30,1,1,3,3,1
+Montgomery Street Inn Shelter,39,5,45,2,1,7,4,2
+LifeMoves Montgomery Street Inn,40,6,32,2,1,5,1,4
+LifeMoves Montgomery Street Inn,40,7,38,3,3,4,2,1
+LifeMoves Montgomery Street Inn,40,5,40,2,1,8,3,3
+LifeMoves Montgomery Street Inn,40,4,28,2,1,7,2,2
+LifeMoves Montgomery Street Inn,40,8,36,1,3,6,1,4
+LifeMoves Montgomery Street Inn,40,6,50,2,1,9,2,4
+LifeMoves Montgomery Street Inn,40,7,28,2,1,6,1,4
+LifeMoves Montgomery Street Inn,40,5,35,3,2,8,2,1
+LifeMoves Montgomery Street Inn,40,4,30,1,1,3,3,1
+LifeMoves Montgomery Street Inn,40,6,45,2,1,7,4,2
+LifeMoves Georgia Travis Center,41,4,32,2,1,5,1,2
+LifeMoves Georgia Travis Center,41,6,38,3,3,4,2,1
+LifeMoves Georgia Travis Center,41,5,40,2,1,8,3,3
+LifeMoves Georgia Travis Center,41,3,28,2,1,7,2,4
+LifeMoves Georgia Travis Center,41,8,36,1,3,6,1,4
+LifeMoves Georgia Travis Center,41,7,50,2,1,9,2,4
+LifeMoves Georgia Travis Center,41,6,28,2,1,6,1,4
+LifeMoves Georgia Travis Center,41,5,35,3,2,8,2,1
+LifeMoves Georgia Travis Center,41,4,30,1,1,3,3,1
+LifeMoves Georgia Travis Center,41,6,45,2,1,7,4,2
+Next Door Solutions to Domestic Violence,42,3,32,2,1,5,1,1
+Next Door Solutions to Domestic Violence,42,5,38,3,3,4,2,3
+Next Door Solutions to Domestic Violence,42,4,40,2,1,8,3,4
+Next Door Solutions to Domestic Violence,42,6,28,2,1,7,2,2
+Next Door Solutions to Domestic Violence,42,7,36,1,3,6,1,4
+Next Door Solutions to Domestic Violence,42,6,50,2,1,9,2,4
+Next Door Solutions to Domestic Violence,42,8,28,2,1,6,1,4
+Next Door Solutions to Domestic Violence,42,4,35,3,2,8,2,1
+Next Door Solutions to Domestic Violence,42,2,30,1,1,3,3,1
+Next Door Solutions to Domestic Violence,42,5,45,2,1,7,4,2
+Sacred Heart Community Services,43,5,32,2,1,5,1,2
+Sacred Heart Community Services,43,7,38,3,3,4,2,1
+Sacred Heart Community Services,43,6,40,2,1,8,3,3
+Sacred Heart Community Services,43,4,28,2,1,7,2,4
+Sacred Heart Community Services,43,8,36,1,3,6,1,4
+Sacred Heart Community Services,43,6,50,2,1,9,2,4
+Sacred Heart Community Services,43,7,28,2,1,6,1,4
+Sacred Heart Community Services,43,5,35,3,2,8,2,1
+Sacred Heart Community Services,43,4,30,1,1,3,3,1
+Sacred Heart Community Services,43,6,45,2,1,7,4,2
+Salvation Army Emmanuel House,44,6,32,2,1,5,1,2
+Salvation Army Emmanuel House,44,8,38,3,3,4,2,1
+Salvation Army Emmanuel House,44,7,40,2,1,8,3,3
+Salvation Army Emmanuel House,44,5,28,2,1,7,2,4
+Salvation Army Emmanuel House,44,4,36,1,3,6,1,4
+Salvation Army Emmanuel House,44,6,50,2,1,9,2,4
+Salvation Army Emmanuel House,44,7,28,2,1,6,1,4
+Salvation Army Emmanuel House,44,5,35,3,2,8,2,1
+Salvation Army Emmanuel House,44,4,30,1,1,3,3,1
+Salvation Army Emmanuel House,44,6,45,2,1,7,4,2
+Family Supportive Housing's San Jose Family Shelter,45,5,32,2,1,5,1,2
+Family Supportive Housing's San Jose Family Shelter,45,7,38,3,3,4,2,1
+Family Supportive Housing's San Jose Family Shelter,45,6,40,2,1,8,3,3
+Family Supportive Housing's San Jose Family Shelter,45,4,28,2,1,7,2,4
+Family Supportive Housing's San Jose Family Shelter,45,8,36,1,3,6,1,4
+Family Supportive Housing's San Jose Family Shelter,45,6,50,2,1,9,2,4
+Family Supportive Housing's San Jose Family Shelter,45,7,28,2,1,6,1,4
+Family Supportive Housing's San Jose Family Shelter,45,5,35,3,2,8,2,1
+Family Supportive Housing's San Jose Family Shelter,45,4,30,1,1,3,3,1
+Family Supportive Housing's San Jose Family Shelter,45,6,45,2,1,7,4,2
+CityTeam Ministries San Jose,46,4,32,2,1,5,1,2
+CityTeam Ministries San Jose,46,6,38,3,3,4,2,1
+CityTeam Ministries San Jose,46,5,40,2,1,8,3,3
+CityTeam Ministries San Jose,46,3,28,2,1,7,2,4
+CityTeam Ministries San Jose,46,8,36,1,3,6,1,4
+CityTeam Ministries San Jose,46,6,50,2,1,9,2,4
+CityTeam Ministries San Jose,46,7,28,2,1,6,1,4
+CityTeam Ministries San Jose,46,5,35,3,2,8,2,1
+CityTeam Ministries San Jose,46,4,30,1,1,3,3,1
+CityTeam Ministries San Jose,46,6,45,2,1,7,4,2
+Heritage Home Shelter - CityTeam Ministries,47,7,32,2,1,5,1,2
+Heritage Home Shelter - CityTeam Ministries,47,6,38,3,3,4,2,1
+Heritage Home Shelter - CityTeam Ministries,47,5,40,2,1,8,3,3
+Heritage Home Shelter - CityTeam Ministries,47,4,28,2,1,7,2,4
+Heritage Home Shelter - CityTeam Ministries,47,8,36,1,3,6,1,4
+Heritage Home Shelter - CityTeam Ministries,47,6,50,2,1,9,2,4
+Heritage Home Shelter - CityTeam Ministries,47,7,28,2,1,6,1,4
+Heritage Home Shelter - CityTeam Ministries,47,5,35,3,2,8,2,1
+Heritage Home Shelter - CityTeam Ministries,47,4,30,1,1,3,3,1
+Heritage Home Shelter - CityTeam Ministries,47,6,45,2,1,7,4,2
+United States Mission Transitional Housing,48,5,32,2,1,5,1,2
+United States Mission Transitional Housing,48,7,38,3,3,4,2,1
+United States Mission Transitional Housing,48,6,40,2,1,8,3,3
+United States Mission Transitional Housing,48,4,28,2,1,7,2,4
+United States Mission Transitional Housing,48,8,36,1,3,6,1,4
+United States Mission Transitional Housing,48,6,50,2,1,9,2,4
+United States Mission Transitional Housing,48,7,28,2,1,6,1,4
+United States Mission Transitional Housing,48,5,35,3,2,8,2,1
+United States Mission Transitional Housing,48,4,30,1,1,3,3,1
+United States Mission Transitional Housing,48,6,45,2,1,7,4,2
+Office of Supportive Housing (OSH) Santa Clara County,49,8,32,2,1,5,1,2
+Office of Supportive Housing (OSH) Santa Clara County,49,5,38,3,3,4,2,1
+Office of Supportive Housing (OSH) Santa Clara County,49,7,40,2,1,8,3,3
+Office of Supportive Housing (OSH) Santa Clara County,49,6,28,2,1,7,2,4
+Office of Supportive Housing (OSH) Santa Clara County,49,4,36,1,3,6,1,4
+Office of Supportive Housing (OSH) Santa Clara County,49,6,50,2,1,9,2,4
+Office of Supportive Housing (OSH) Santa Clara County,49,7,28,2,1,6,1,4
+Office of Supportive Housing (OSH) Santa Clara County,49,5,35,3,2,8,2,1
+Office of Supportive Housing (OSH) Santa Clara County,49,4,30,1,1,3,3,1
+Office of Supportive Housing (OSH) Santa Clara County,49,6,45,2,1,7,4,2
+City Team Ministry Men's Shelter,50,7,32,2,1,5,1,2
+City Team Ministry Men's Shelter,50,6,38,3,3,4,2,1
+City Team Ministry Men's Shelter,50,5,40,2,1,8,3,3
+City Team Ministry Men's Shelter,50,4,28,2,1,7,2,4
+City Team Ministry Men's Shelter,50,8,36,1,3,6,1,4
+City Team Ministry Men's Shelter,50,6,50,2,1,9,2,4
+City Team Ministry Men's Shelter,50,7,28,2,1,6,1,4
+City Team Ministry Men's Shelter,50,5,35,3,2,8,2,1
+City Team Ministry Men's Shelter,50,4,30,1,1,3,3,1
+City Team Ministry Men's Shelter,50,6,45,2,1,7,4,2
