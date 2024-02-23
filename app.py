@@ -58,7 +58,7 @@ from sklearn.preprocessing import StandardScaler
 def predict():
     model = load_model('lr_model')  # Update with the correct path to your TensorFlow model
     scaler = StandardScaler()
-    df = pd.read_csv('ShelterLink-ML\shelter_data.csv')
+    df = pd.read_csv('shelter_data.csv')
     X = df[['los','age','gender','relationship','location','language','disability']]  # Features
     y = pd.Categorical(df['person_number']).codes  # Target variable
 
