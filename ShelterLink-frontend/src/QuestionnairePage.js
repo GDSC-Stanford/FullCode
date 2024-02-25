@@ -87,7 +87,7 @@ function QuestionnairePage() {
       <div className="questionnaire-complete">
         <h1>Thank you for completing the questionnaire!</h1>
         <div className="shelter-prediction">
-          <h2>Your predicted shelter is:</h2>
+          <h2>Your recommended shelter is:</h2>
           <p className="shelter-name"> {predictedShelter.predictedShelter}</p>
         </div>
       </div>

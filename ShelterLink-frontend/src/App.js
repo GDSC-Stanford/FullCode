@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import QuestionnairePage from './QuestionnairePage'; // Import the QuestionnairePage component
+import QuestionnairePage from './QuestionnairePage';
+import Map from './Map';
 
 function Header() {
   return (
@@ -27,13 +28,20 @@ function MainContent() {
   );
 }
 
+
 function MapSection() {
+  const center = {
+    lat: 37.7749,
+    lng: -122.4194 // Negative for Western Hemisphere
+  };
+  const zoom = 15; // Adjust the zoom level as needed
+
   return (
     <div className="map-container">
-      <img src="map.png" alt="Map" className="map-image" />
-      <div className="map-buttons">
+      <Map center={center} zoom={zoom} />
+      {/* <div className="map-buttons">
         <button className="browse-button">Browse Shelters Near You</button>
-      </div>
+      </div> */}
     </div>
   );
 }
