@@ -1,3 +1,7 @@
+# This is where the main python code for our backend is. We used Generative AI to help with 
+# some of the API endpoints with Firebase and the React frontend.
+
+
 from flask import Flask, jsonify, request, abort
 from flask_cors import CORS
 import firebase_admin
