@@ -1,4 +1,9 @@
-/* Reset some default styles */
+/*
+* This is where the main CSS of our frontend is. We used Generative AI to help with 
+* styling the grid display, as well as some of the radio buttons in the questionnaire.
+*
+*/
+
 * {
   box-sizing: border-box;
   margin: 0;
