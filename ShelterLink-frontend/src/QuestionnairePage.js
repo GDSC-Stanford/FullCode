@@ -8,7 +8,7 @@ const questions = [
   { key: 'name', question: 'What is your name?' },
   { key: 'age', question: 'What is your age?' },
   { key: 'gender', question: 'What is your gender?' },
-  { key: 'los', question: 'How long do you plan on staying in this shelter?'}, 
+  { key: 'los', question: 'How long do you plan on staying in this shelter on a scale of 1 (a couple days) - 10 (a couple years)?'}, 
   { key: 'relationship', question: 'What is your relationship status?', options: ['Single', 'Partner Without Kids', 'Partner With Kids ']}, 
   { key: 'language', question: 'What is your language?', options: ['English', 'Spanish', 'Chinese', 'Other'] }, 
   { key: 'disability', question: 'Please choose your disability status', options: ['Substance Abuse', 'Mental Illness', 'Sick', 'Disabilities/None'] }
