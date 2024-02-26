@@ -1,3 +1,10 @@
+/*
+* This is where the main JavaScript of our frontend is. We used Generative AI to help with 
+* routing to a new page, as well as helping integrate the Google Maps API.
+*
+*/
+
+
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
